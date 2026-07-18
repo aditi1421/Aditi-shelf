@@ -3,7 +3,7 @@ import { cardGradient, tagColor } from "../lib/colors";
 
 export default function ArticleCard({ article }: { article: Article }) {
   const accent = tagColor(article.tags[0] ?? article.title);
-  const byline = [article.author, article.publication].filter(Boolean).join(" · ");
+  const byline = [...new Set([article.author, article.publication].filter(Boolean))].join(" · ");
 
   return (
     <a
