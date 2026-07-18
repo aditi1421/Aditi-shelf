@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://open.substack.com/pub/maildropbymishti/p/behind-the-scenes-with-50-emails?r=5dwtx3&utm_campaign=post&utm_medium=web",
+    "take": "proof that cold emails work when they sound like a person",
+    "tags": ["writing", "careers"],
+    "favorite": true
+  },
+  {
+    "url": "https://secondthoughts.ai/p/ai-milestones",
+    "take": "a sober map of how far AI has actually come",
+    "tags": ["ai"]
+  },
+  {
+    "url": "https://asteriskmag.com/issues/10/does-ai-progress-have-a-speed-limit",
+    "take": "the best framing I've seen of the scaling debate",
+    "tags": ["ai"],
+    "favorite": true
+  },
+  {
+    "url": "https://vladfeinberg.com/2026/05/10/how-to-land-a-job-at-a-frontier-lab.html",
+    "take": "concrete, unsentimental advice on breaking into frontier labs",
+    "tags": ["careers", "ai"]
+  },
+  {
+    "url": "https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html",
+    "take": "what AI means for the people doing the work",
+    "tags": ["society", "ai"]
+  }
+]
