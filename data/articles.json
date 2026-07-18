@@ -46,5 +46,67 @@
     "tags": ["ai"],
     "author": "Boyd Kane",
     "publication": ""
+  },
+  {
+    "url": "https://kairos.fm/simple-technical-rlhaif/?utm_source=bluedot-impact",
+    "take": "finally, RLHF and RLAIF explained without the hand-waving",
+    "tags": ["ai"],
+    "title": "A Simple Technical Explanation of RLH(AI)F"
+  },
+  {
+    "url": "https://www.neelnanda.io/blog/become-a-person-who-actually-does-things",
+    "take": "the essay I reread whenever I'm stuck planning instead of doing",
+    "tags": ["careers"],
+    "title": "Become a Person who Actually Does Things"
+  },
+  {
+    "url": "https://novehiclesinthepark.substack.com/p/the-splotch-problem",
+    "take": "why no set of rules survives contact with real cases",
+    "tags": ["society"]
+  },
+  {
+    "url": "https://colossus.com/article/inside-cursor/",
+    "take": "a rare look at how the fastest-growing dev tool actually runs",
+    "tags": ["ai", "careers"],
+    "title": "Inside Cursor",
+    "publication": "Colossus Review"
+  },
+  {
+    "url": "http://joschu.net/blog/opinionated-guide-ml-research.html",
+    "take": "John Schulman on choosing research problems that actually matter",
+    "tags": ["ai", "careers"],
+    "author": "John Schulman"
+  },
+  {
+    "url": "https://www.jasonwei.net/blog/practicing-ai-research",
+    "take": "Jason Wei on treating research like a craft you practice daily",
+    "tags": ["ai", "careers"],
+    "title": "Practicing AI Research"
+  },
+  {
+    "url": "https://colah.github.io/notes/taste/",
+    "take": "Chris Olah on how research taste is built, not born",
+    "tags": ["ai", "careers"],
+    "title": "Research Taste Exercises",
+    "author": "Chris Olah"
+  },
+  {
+    "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929",
+    "take": "the crash that rewrote how we think about markets",
+    "tags": ["economics"],
+    "publication": "Federal Reserve History"
+  },
+  {
+    "url": "https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/",
+    "take": "career advice for engineers that's still true 15 years later",
+    "tags": ["careers"],
+    "title": "Don't Call Yourself A Programmer, And Other Career Advice",
+    "author": "Patrick McKenzie"
+  },
+  {
+    "url": "https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/",
+    "take": "the most honest thing ever written about getting everything you wanted",
+    "tags": ["life"],
+    "author": "Vinay Hiremath"
   }
 ]

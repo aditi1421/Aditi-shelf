@@ -37,5 +37,39 @@
     "title": "Summary of alarming AI safety findings",
     "image": "https://boydkane.com/essays/ais-findings-og-image.webp",
     "publication": "Boyd"
+  },
+  "https://kairos.fm/simple-technical-rlhaif/?utm_source=bluedot-impact": {
+    "title": "A simple technical explanation of RLH(AI)F | Kairos.fm",
+    "image": "https://kairos.fm/media/logo_hu3665961374755788175.png",
+    "publication": "Kairos.fm"
+  },
+  "https://www.neelnanda.io/blog/become-a-person-who-actually-does-things": {
+    "title": "Mini Blog Post 3: Become a person who Actually Does Things &mdash; Neel Nanda",
+    "publication": "Neel Nanda"
+  },
+  "https://novehiclesinthepark.substack.com/p/the-splotch-problem": {
+    "title": "The Splotch Problem",
+    "image": "https://substackcdn.com/image/fetch/$s_!cIeM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ad4b64-441a-4bd7-8b53-9f2c9ce45ebb_2816x1536.png",
+    "author": "Chad Atlas"
+  },
+  "http://joschu.net/blog/opinionated-guide-ml-research.html": {
+    "title": "An Opinionated Guide to ML Research"
+  },
+  "https://www.jasonwei.net/blog/practicing-ai-research": {
+    "title": "Practicing AI research &mdash; Jason Wei",
+    "publication": "Jason Wei"
+  },
+  "https://colah.github.io/notes/taste/": {
+    "title": "Research Taste Exercises [rough note]"
+  },
+  "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929": {
+    "title": "Stock Market Crash of 1929",
+    "author": "Gary Richardson"
+  },
+  "https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/": {
+    "title": "Don't Call Yourself A Programmer, And Other Career Advice\n      \n         | \n        Kalzumeus Software"
+  },
+  "https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/": {
+    "title": "I am rich and have no idea what to do with my life"
   }
 }
