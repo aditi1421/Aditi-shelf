@@ -39,5 +39,12 @@
     "url": "https://newsletter.deenamousa.com/p/ai-could-keep-poor-countries-poor",
     "take": "the uncomfortable case that AI's gains won't be shared",
     "tags": ["ai", "economics"]
+  },
+  {
+    "url": "https://boydkane.com/essays/ais-findings",
+    "take": "a sobering roundup of what AI safety research keeps finding",
+    "tags": ["ai"],
+    "author": "Boyd Kane",
+    "publication": ""
   }
 ]
