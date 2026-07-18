@@ -28,5 +28,16 @@
     "title": "Silicon Valley Is Bracing for a Permanent Underclass",
     "author": "Jasmine Sun",
     "publication": "The New York Times"
+  },
+  {
+    "url": "https://arjunramani.com/india-dispatch.html",
+    "take": "notes from the ground on where India's economy is actually heading",
+    "tags": ["economics", "society"],
+    "author": "Arjun Ramani"
+  },
+  {
+    "url": "https://newsletter.deenamousa.com/p/ai-could-keep-poor-countries-poor",
+    "take": "the uncomfortable case that AI's gains won't be shared",
+    "tags": ["ai", "economics"]
   }
 ]
