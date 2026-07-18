@@ -51,8 +51,10 @@ body {
   gap: 1.25rem;
 }
 
+.cardWrap { position: relative; }
+
 .card {
-  position: relative;
+  height: 100%;
   display: flex;
   flex-direction: column;
   background: #fff;
@@ -76,15 +78,23 @@ body {
   top: 0.6rem;
   right: 0.6rem;
   z-index: 1;
-  background: #ffdf5d;
+  background: rgb(255 255 255 / 0.88);
+  color: #c9c2d6;
+  border: none;
   border-radius: 999px;
-  width: 1.9rem;
-  height: 1.9rem;
+  width: 2rem;
+  height: 2rem;
   display: grid;
   place-items: center;
-  font-size: 1rem;
+  font-size: 1.05rem;
+  cursor: pointer;
   box-shadow: 0 1px 4px rgb(36 31 49 / 0.25);
+  transition: transform 0.12s ease, background 0.12s ease, color 0.12s ease;
 }
+
+.star:hover { transform: scale(1.15); }
+
+.star.faved { background: #ffdf5d; color: #241f31; }
 
 .cover { width: 100%; aspect-ratio: 1.91 / 1; object-fit: cover; display: block; }
 
