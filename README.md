@@ -20,6 +20,11 @@ Push to `main` — the build fetches the article's title, author, and cover
 image automatically. Override any of those by adding `title`, `author`,
 `publication`, or `image` fields to the entry.
 
+## Make your own shelf
+
+Fork this repo, replace `data/articles.json` with your own reads, and deploy
+to Vercel. MIT licensed — see [LICENSE](LICENSE).
+
 ## Development
 
 ```bash
