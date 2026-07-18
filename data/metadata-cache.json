@@ -1,1 +1,27 @@
-{}
+{
+  "https://open.substack.com/pub/maildropbymishti/p/behind-the-scenes-with-50-emails?r=5dwtx3&utm_campaign=post&utm_medium=web": {
+    "title": "behind-the-scenes with 50+ emails that unlocked my dream job",
+    "image": "https://substackcdn.com/image/fetch/$s_!4DxY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb2f849b-0d42-45b5-9190-a498a75b5d78_1600x1056.jpeg",
+    "author": "Mishti Sharma"
+  },
+  "https://secondthoughts.ai/p/ai-milestones": {
+    "title": "Toward Better AI Milestones",
+    "image": "https://substackcdn.com/image/fetch/$s_!fVSa!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03aadb4b-e439-4e87-aa69-b7ec1a6d73b9_1792x1024.webp",
+    "author": "Steve Newman"
+  },
+  "https://asteriskmag.com/issues/10/does-ai-progress-have-a-speed-limit": {
+    "title": "Does AI Progress Have a Speed Limit?",
+    "image": "https://asteriskmag.com/media/pages/issues/10/does-ai-progress-have-a-speed-limit/1a036f658c-1746460784/copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-happy-independence-day-10-1600x900-crop-sharpen50.png",
+    "publication": "Asterisk"
+  },
+  "https://vladfeinberg.com/2026/05/10/how-to-land-a-job-at-a-frontier-lab.html": {
+    "title": "How to Land a Frontier Lab Job",
+    "image": "https://vladfeinberg.com/assets/2026-05-12-how-to-land-a-job-at-a-frontier-lab/lewis.jpg",
+    "publication": "Vlad Feinberg",
+    "author": "Vlad Feinberg"
+  },
+  "https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html": {
+    "title": "Opinion | Silicon Valley Is Bracing for a Permanent Underclass",
+    "image": "https://static01.nyt.com/images/2026/05/01/opinion/01Sun/01Sun-facebookJumbo-v2.jpg"
+  }
+}
